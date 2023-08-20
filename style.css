@@ -3,13 +3,3 @@
     box-sizing: border-box;
     color: antiquewhite;
 }
-
-.banner {
-    height: 500px;
-    background-color: goldenrod;
-    text-align: center;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
