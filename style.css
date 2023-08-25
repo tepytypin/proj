@@ -3,3 +3,15 @@
     box-sizing: border-box;
     color: antiquewhite;
 }
+
+.banner {
+    background-color: #f4bb38;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.banner h1 {
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
